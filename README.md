@@ -18,6 +18,7 @@
 # CSE_BlockDiagramAlgebra_ME_4203_Group7_2024 Number 1 ![062B298B-20B6-417A-9437-69F910963748](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/159032350/5a7bb1e1-0166-4fa4-a497-bd222b2325cd)
 ![B378FBBE-B339-43A9-94BE-1049202BCE5B](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/159032350/7d38c5d1-c183-493d-8d37-905cbce88fff)
 
+# CSE_BlockDiagramAlgebra_ME_4203_Group7_2024 Number 2 ![138D1740-7D0B-4753-8629-98623956E3F4](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/159032350/aa6c751e-09e0-4023-abbe-46ab06fd45b3)
 
 
 
