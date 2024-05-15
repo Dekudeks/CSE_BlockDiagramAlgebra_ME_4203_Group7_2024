@@ -13,3 +13,13 @@
 "STEP RESPONSE FROM SIMULINK - After Reduced Block Diagram"
 # CSE_BlockDiagramAlgebra_ME_4203_Group7_2024 Number 1![Lab3-Number1-step response-simulink](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/161009651/229425e5-1b09-43d8-abdd-440851663419)
 # CSE_BlockDiagramAlgebra_ME_4203_Group7_2024 Number 2![Lab3-Number2-step response-simulink](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/160557228/8a21f68b-fcbb-4ed7-8b6c-49b16c14f5d3)
+
+"MANUAL CALCULATION"
+# CSE_BlockDiagramAlgebra_ME_4203_Group7_2024 Number 1 ![062B298B-20B6-417A-9437-69F910963748](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/159032350/5a7bb1e1-0166-4fa4-a497-bd222b2325cd)
+![B378FBBE-B339-43A9-94BE-1049202BCE5B](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/159032350/7d38c5d1-c183-493d-8d37-905cbce88fff)
+
+
+
+
+
+
