@@ -15,10 +15,15 @@
 # CSE_BlockDiagramAlgebra_ME_4203_Group7_2024 Number 2![Lab3-Number2-step response-simulink](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/160557228/8a21f68b-fcbb-4ed7-8b6c-49b16c14f5d3)
 
 "MANUAL CALCULATION"
-# CSE_BlockDiagramAlgebra_ME_4203_Group7_2024 Number 1 ![062B298B-20B6-417A-9437-69F910963748](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/159032350/5a7bb1e1-0166-4fa4-a497-bd222b2325cd)
+# CSE_BlockDiagramAlgebra_ME_4203_Group7_2024 Number 1 
+![440080211_777053291197832_1123601483461777723_n](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/161302464/96f82985-d2f9-4763-b0b5-7538f552b308)
+![441878675_979631023554029_3885593864945793967_n](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/161302464/c6d347c8-49e8-4e46-8df8-06a883d764c3)
+![062B298B-20B6-417A-9437-69F910963748](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/159032350/5a7bb1e1-0166-4fa4-a497-bd222b2325cd)
 ![B378FBBE-B339-43A9-94BE-1049202BCE5B](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/159032350/7d38c5d1-c183-493d-8d37-905cbce88fff)
 
-# CSE_BlockDiagramAlgebra_ME_4203_Group7_2024 Number 2 ![138D1740-7D0B-4753-8629-98623956E3F4](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/159032350/aa6c751e-09e0-4023-abbe-46ab06fd45b3)
+# CSE_BlockDiagramAlgebra_ME_4203_Group7_2024 Number 2 
+![442667820_1153948398951172_3450893512797692164_n](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/161302464/b4511255-7725-488c-929a-08150366959c)
+![138D1740-7D0B-4753-8629-98623956E3F4](https://github.com/Dekudeks/CSE_BlockDiagramAlgebra_ME_4203_Group7_2024/assets/159032350/aa6c751e-09e0-4023-abbe-46ab06fd45b3)
 
 
 
